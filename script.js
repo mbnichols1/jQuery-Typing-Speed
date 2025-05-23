@@ -1,8 +1,14 @@
 const quotes = [
-  "The quick brown fox jumps over the lazy dog.",
-  "Typing tests are fun and improve your accuracy.",
-  "Practice makes perfect when learning to code.",
-  "Speed and precision are key to success.",
+  "Honey never spoils. Archaeologists have found edible honey in ancient Egyptian tombs.",
+"Octopuses have three hearts and blue blood.",
+"Bananas are berries, but strawberries aren’t.",
+"A group of flamingos is called a ‘flamboyance’.",
+"The Eiffel Tower can be 15 cm taller during the summer due to heat expansion.",
+"Wombat poop is cube-shaped.",
+"There are more stars in the universe than grains of sand on Earth.",
+"Sharks have been around longer than trees.",
+"Cows have best friends and get stressed when separated.",
+"Sloths can hold their breath longer than dolphins.",
 ];
 
 let currentQuote = "";
